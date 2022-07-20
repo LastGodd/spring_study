@@ -1,4 +1,4 @@
-package com.zerock.sample;
+package org.zerock.sample;
 
 public class Practice {
 	public static void main(String[] args) throws Exception {
